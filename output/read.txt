@@ -1,0 +1,10 @@
+Line 1: This is the first line of text.
+Line 2: Here's the second line.
+Line 3: Adding more lines to demonstrate.
+Line 4: Each line contains different content.
+Line 5: Vim allows for efficient text editing.
+Line 6: Almost halfway there.
+Line 7: This makes seven lines of data.
+Line 8: Continuing to fill in lines.
+Line 9: Penultimate line of the example.
+Line 10: This completes the tenth line of data.
